@@ -1,6 +1,6 @@
 Type country=(Aust, Bolg);
      capital=(Vena, Sofia);
-
+//asasd
 var code: integer;
 begin
 writeln('Выберите столицу 0-Вена 1-София');
