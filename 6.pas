@@ -3,8 +3,8 @@ Type country=(Aust, Bolg);
 //asasd
 var code: integer;
 begin
-writeln('Выберите столицу 0-Вена 1-София');
+writeln('Г‚Г»ГЎГҐГ°ГЁГІГҐ Г±ГІГ®Г«ГЁГ¶Гі 0-Г‚ГҐГ­Г  1-Г‘Г®ГґГЁГї');
 readln( code );
-
-writeln (' столица* страны ',country(code));
+//hagsasa
+writeln (' Г±ГІГ®Г«ГЁГ¶Г * Г±ГІГ°Г Г­Г» ',country(code));
 end.
