@@ -6,4 +6,5 @@ readln(a,b);
 c:=a+b;
 writeln(a,'+',b,'=',c);
 //add com
+//add com 2
 end.
