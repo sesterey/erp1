@@ -5,5 +5,5 @@ writeln('Vvedite Slagaemiye!!!!');
 readln(a,b);
 c:=a+b;
 writeln(a,'+',b,'=',c);
-
+//add com
 end.
