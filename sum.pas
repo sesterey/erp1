@@ -5,11 +5,5 @@ writeln('Vvedite Slagaemiye!!!!');
 readln(a,b);
 c:=a+b;
 writeln(a,'+',b,'=',c);
-<<<<<<< HEAD
-//add
-=======
 
->>>>>>> add coment
-//s
-//st
 end.
